@@ -1,5 +1,5 @@
 {
-    "title": "Plan",
+    "title": "План",
     "items": [
         {
             "type": "text",
@@ -14,31 +14,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма создана с помощью "
-                },
-                {
-                    "text": "PlantUML",
-                    "link": "https://plantuml.com"
-                }
-            ]
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "PlantUML is used to draw UML diagrams, using a simple and human readable text description. Be careful, because it does not prevent you from drawing inconsistent diagrams (such as having two classes inheriting from each other, for example). So it's more a drawing tool than a modeling tool."
-                }
-            ]
-        },
-        {
-            "type": "image",
-            "data": "img/use-case-diagram.png"
-        },
-        {
-            "type": "text",
-            "data": [
-                {
-                    "text": "Постусловия",
+                    "text": "Этапы выполнения",
                     "class": "md-title"
                 }
             ]
@@ -47,13 +23,13 @@
             "type": "list",
             "data": [
                 [{
-                    "text": "сформирована личная страница с использованием HTML, CSS, JS"
+                    "text": "Семинары"
                 }],
                 [{
-                    "text": "на личной странице зарезервированы места для описания результатов всех следующих лабораторных работ"
+                    "text": "Лекции"
                 }],
                 [{
-                    "text": "ссылка на личную страницу записана в списке группы"
+                    "text": "Лабы"
                 }]
             ]
         }
