@@ -1,5 +1,5 @@
 .topic-card-image {
-    object-fit: fill; 
+    object-fit: contain; 
     height: 200px;
 }
 
