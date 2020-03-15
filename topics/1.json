@@ -161,7 +161,7 @@
         },
         {
             "type": "image",
-            "data": "/img/UML.png"
+            "data": "img/UML.png"
         }
     ]
 }
