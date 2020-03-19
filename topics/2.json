@@ -145,7 +145,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "Диаграмма USE Case",
+                    "text": "Диаграмма UML Class",
 			"class": "md-title"
                 }
             ]
@@ -155,13 +155,13 @@
             "data": [
                 {
                     "text": "Файл диаграммы",
-                    "link": "files/UmlText.txt"
+                    "link": "files/Text%20UML%20Class.txt"
                 }
             ]
         },
         {
             "type": "image",
-            "data": "img/UML.png"
+            "data": "img/UML%20Class.png"
         }
     ]
 }
